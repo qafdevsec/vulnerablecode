@@ -20,7 +20,7 @@ cryptography==36.0.2
 decorator==5.1.1
 defusedxml==0.7.1
 distro==1.7.0
-Django==4.0.7
+Django==4.2.27
 django-crispy-forms==1.10.0
 django-environ==0.8.1
 django-filter==21.1
@@ -99,7 +99,7 @@ sphinxcontrib-htmlhelp==2.0.0
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-sqlparse==0.4.2
+sqlparse==0.5.4
 stack-data==0.2.0
 stevedore==3.5.0
 texttable==1.6.4
@@ -108,7 +108,7 @@ tomli==2.0.1
 traitlets==5.1.1
 typing_extensions==4.1.1
 univers==30.9.1
-urllib3==1.26.9
+urllib3==2.6.0
 wcwidth==0.2.5
 websocket-client==0.59.0
 yarl==1.7.2
